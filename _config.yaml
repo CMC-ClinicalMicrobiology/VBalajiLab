@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: CMC-ClinicalMicrobiology
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Balaji Veeraraghavan Lab
+subtitle: Bacterial Genomics, Antimicrobial Resistance & Vaccine-Preventable Disease
+description: Our lab investigates the epidemiology, genomics, and resistance mechanisms of clinically relevant bacterial pathogens, contributing to national and global AMR surveillance efforts.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
-  email: contact@CMC-ClinicalMicrobiology.com
-  orcid: 0000-0001-8713-9213
+  email: micro@cmcvellore.ac.in
+  orcid: [0000-002-8662-4257](https://orcid.org/0000-0002-8662-4257)
   google-scholar: ETJoidYAAAAJ
   github: CMC-ClinicalMicrobiology
-  twitter: CMC-ClinicalMicrobiology
-  youtube: CMC-ClinicalMicrobiology
+  #twitter: CMC-ClinicalMicrobiology
+  #youtube: CMC-ClinicalMicrobiology
 
 ### jekyll settings
 
