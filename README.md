@@ -5,6 +5,6 @@
 
   # CMC-ClinicalMicrobiology's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[cmc-clinicalmicrobiology.github.io/VBalajiLab](https://cmc-clinicalmicrobiology.github.io/VBalajiLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
