@@ -9,7 +9,7 @@ proofer: true
 # site social media and other links
 links:
   email: micro@cmcvellore.ac.in
-  orcid: https://orcid.org/0000-0002-8662-4257
+  orcid: 0000-0002-8662-4257
   google-scholar: ETJoidYAAAAJ
   github: CMC-ClinicalMicrobiology
   #twitter: CMC-ClinicalMicrobiology
