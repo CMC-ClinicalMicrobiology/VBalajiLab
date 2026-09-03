@@ -1,9 +1,9 @@
 ---
 ---
 
-# CMC-ClinicalMicrobiology's Website
+--- # CMC-ClinicalMicrobiology's Website
 
-An engaging 1-3 sentence description of your lab.
+We study how antimicrobial resistance emerges and spreads in ESKAPE and enteric-fever pathogens, combining genomics, diagnostics, and PK/PD-guided antimicrobial development. As India's ICMR National Nodal Centre for Genomic AMR Surveillance, our work has shaped national AMR policy and appeared in over 600 peer-reviewed publications, including Nature, The Lancet, and NEJM
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate the genomic mechanisms driving antimicrobial resistance in ESKAPE pathogens and enteric-fever organisms, combine whole-genome sequencing with PK/PD-guided antimicrobial development, and support India's genomic AMR surveillance network as the ICMR National Nodal Centre.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+From genomic surveillance of drug-resistant pathogens to evaluating novel antimicrobial agents through our Hollow Fibre Infection Model platform, our projects span diagnostics, resistance mechanisms, and translational antimicrobial development.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team brings together clinical microbiologists, genomic epidemiologists, molecular biologists, and bioinformaticians working across AMR surveillance, vaccine-preventable disease research, and antimicrobial development — based at CMC Vellore's Department of Clinical Microbiology.
 
 {%
   include button.html
