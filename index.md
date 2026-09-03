@@ -1,9 +1,9 @@
 ---
 ---
 
---- # CMC-ClinicalMicrobiology's Website
+<!--CMC-ClinicalMicrobiology's Website-->
 
-We study how antimicrobial resistance emerges and spreads in ESKAPE and enteric-fever pathogens, combining genomics, diagnostics, and PK/PD-guided antimicrobial development. As India's ICMR National Nodal Centre for Genomic AMR Surveillance, our work has shaped national AMR policy and appeared in over 600 peer-reviewed publications, including Nature, The Lancet, and NEJM
+We study how antimicrobial resistance emerges and spreads in ESKAPE and enteric-fever pathogens, combining genomics, diagnostics, and PK/PD-guided antimicrobial development. As India's Indian Council of Medical Research (ICMR) National Nodal Centre for Genomic Antimicrobial Resistance (AMR) Surveillance, our work has shaped national AMR policy and appeared in over 600 peer-reviewed publications, including Nature, The Lancet, and NEJM
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ From genomic surveillance of drug-resistant pathogens to evaluating novel antimi
 
 {% capture text %}
 
-Our team brings together clinical microbiologists, genomic epidemiologists, molecular biologists, and bioinformaticians working across AMR surveillance, vaccine-preventable disease research, and antimicrobial development — based at CMC Vellore's Department of Clinical Microbiology.
+Our team brings together clinical microbiologists, genomic epidemiologists, molecular biologists, and bioinformaticians working across AMR surveillance, vaccine-preventable disease research, and antimicrobial development — based at Christian Medical College Vellore's Department of Clinical Microbiology.
 
 {%
   include button.html
