@@ -16,18 +16,47 @@ permissions:
   pull-requests: write
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      citation_inputs: ${{ steps.filter.outputs.citation_inputs }}
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Detect citation input changes
+        id: filter
+        uses: dorny/paths-filter@v3
+        with:
+          filters: |
+            citation_inputs:
+              - '_cite/**'
+              - '_data/orcid*.yaml'
+              - '_data/orcid*.yml'
+              - '_data/orcid*.json'
+              - '_data/google-scholar*.yaml'
+              - '_data/google-scholar*.yml'
+              - '_data/google-scholar*.json'
+              - '_data/pubmed*.yaml'
+              - '_data/pubmed*.yml'
+              - '_data/pubmed*.json'
+              - '_data/sources*.yaml'
+              - '_data/sources*.yml'
+              - '_data/sources*.json'
+
   get-sources:
-    if: github.event.action != 'closed'
+    needs: changes
+    if: github.event.action != 'closed' && needs.changes.outputs.citation_inputs == 'true'
     uses: ./.github/workflows/get-sources.yaml
 
   update-citations:
-    if: github.event.action != 'closed'
-    needs: get-sources
+    needs: [changes, get-sources]
+    if: github.event.action != 'closed' && needs.changes.outputs.citation_inputs == 'true'
     uses: ./.github/workflows/update-citations.yaml
     secrets: inherit
 
   build-preview:
     # still run when PR closed to trigger deploy-preview
-    if: ${{ !cancelled() && !failure() }}
-    needs: update-citations
+    if: ${{ always() && needs.changes.result == 'success' && (github.event.action == 'closed' || needs.changes.outputs.citation_inputs == 'false' || needs.update-citations.result == 'success') }}
+    needs: [changes, update-citations]
     uses: ./.github/workflows/build-preview.yaml

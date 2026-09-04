@@ -16,12 +16,42 @@ permissions:
   pull-requests: write
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      citation_inputs: ${{ steps.filter.outputs.citation_inputs }}
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Detect citation input changes
+        id: filter
+        uses: dorny/paths-filter@v3
+        with:
+          filters: |
+            citation_inputs:
+              - '_cite/**'
+              - '_data/orcid*.yaml'
+              - '_data/orcid*.yml'
+              - '_data/orcid*.json'
+              - '_data/google-scholar*.yaml'
+              - '_data/google-scholar*.yml'
+              - '_data/google-scholar*.json'
+              - '_data/pubmed*.yaml'
+              - '_data/pubmed*.yml'
+              - '_data/pubmed*.json'
+              - '_data/sources*.yaml'
+              - '_data/sources*.yml'
+              - '_data/sources*.json'
+
   update-citations:
     # skip first run because nothing enabled or setup yet
-    if: github.run_number != 1
+    needs: changes
+    if: github.run_number != 1 && needs.changes.outputs.citation_inputs == 'true'
     uses: ./.github/workflows/update-citations.yaml
     secrets: inherit
 
   build-site:
-    needs: update-citations
+    needs: [changes, update-citations]
+    if: ${{ always() && needs.changes.result == 'success' && (needs.update-citations.result == 'success' || needs.update-citations.result == 'skipped') }}
     uses: ./.github/workflows/build-site.yaml
