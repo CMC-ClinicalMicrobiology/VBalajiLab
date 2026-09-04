@@ -90,4 +90,7 @@ Dr. Veeraraghavan has contributed to four WHO publications and seven ICMR guidel
 
 ## Professional memberships
 
-American Society for Microbiology; European Society of Clinical Microbiology and Infectious Diseases; Clinical Infectious Diseases Society, India; Indian Association of Medical Microbiologists (Life Member 1203/2002); and Hospital Infection Society, India (Life Member 638/2011).
+- American Society for Microbiology
+- European Society of Clinical Microbiology and Infectious Diseases
+- Clinical Infectious Diseases Society, India; Indian Association of Medical Microbiologists (Life Member 1203/2002)
+- Hospital Infection Society, India (Life Member 638/2011).
