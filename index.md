@@ -3,7 +3,7 @@
 
 <!--CMC-ClinicalMicrobiology's Website-->
 
-We study how antimicrobial resistance emerges and spreads in ESKAPE and enteric-fever pathogens, combining genomics, diagnostics, and PK/PD-guided antimicrobial development. As India's Indian Council of Medical Research (ICMR) National Nodal Centre for Genomic Antimicrobial Resistance (AMR) Surveillance, our work has shaped national AMR policy and appeared in over 600 peer-reviewed publications, including Nature, The Lancet, and NEJM
+We study how antimicrobial resistance emerges and spreads in ESKAPE and enteric-fever pathogens, combining genomics, diagnostics, and PK/PD-guided antimicrobial development. As India's Indian Council of Medical Research (ICMR) National Nodal Centre for Genomic Antimicrobial Resistance (AMR) Surveillance, our work has shaped national AMR policy and appeared in over 400 peer-reviewed publications, including Nature, The Lancet, and NEJM
 
 {% include section.html %}
 
@@ -16,7 +16,7 @@ We investigate the genomic mechanisms driving antimicrobial resistance in ESKAPE
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +34,12 @@ We investigate the genomic mechanisms driving antimicrobial resistance in ESKAPE
 
 {% capture text %}
 
-From genomic surveillance of drug-resistant pathogens to evaluating novel antimicrobial agents through our Hollow Fibre Infection Model platform, our projects span diagnostics, resistance mechanisms, and translational antimicrobial development.
+Our publication record spans bacterial genomics, antimicrobial resistance surveillance, vaccine-preventable diseases, clinical microbiology, and PK/PD-guided antimicrobial development.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ From genomic surveillance of drug-resistant pathogens to evaluating novel antimi
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text

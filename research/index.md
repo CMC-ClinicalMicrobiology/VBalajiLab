@@ -2,26 +2,13 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Our research focus
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research centers on how antimicrobial resistance emerges and spreads in clinically important bacterial pathogens — combining whole-genome sequencing, genomic epidemiology, PK/PD-guided antimicrobial development, and bioinformatics. As India's ICMR National Nodal Centre for Genomic AMR Surveillance, our work spans ESKAPE and enteric-fever pathogens, resistance mechanism discovery, and vaccine-preventable disease surveillance, contributing to national AMR policy and over 400 peer-reviewed publications.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+Read our complete publication record on the [Publications]({{ "/publications/" | relative_url }}) page.
