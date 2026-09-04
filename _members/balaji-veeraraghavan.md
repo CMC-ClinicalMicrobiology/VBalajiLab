@@ -82,7 +82,7 @@ Dr. Veeraraghavan has been an invited speaker at MICROCON (2012–2025), ESCMID 
 
 ## Publication record
 
-Dr. Veeraraghavan has authored more than 575 peer-reviewed publications. The CV reports a Google Scholar h-index of 64 and i10-index of 308. Individual publications are available through the [lab publication record]({{ "/publications/" | relative_url }}) and [Google Scholar](https://scholar.google.com/citations?user=rpPKlrUAAAAJ).
+Dr. Veeraraghavan has authored more than 575 peer-reviewed publications. Individual publications are available through the [lab publication record]({{ "/publications/" | relative_url }}) and [Google Scholar](https://scholar.google.com/citations?user=rpPKlrUAAAAJ).
 
 ## Policy and guideline contributions
 
