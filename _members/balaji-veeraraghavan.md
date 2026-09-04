@@ -1,6 +1,6 @@
 ---
 name: Balaji Veeraraghavan
-image: images/fallback.svg
+image: images/DrBalajiVeeraraghavan.jpg
 role: principal-investigator
 description: Senior Professor and Head, Department of Clinical Microbiology
 affiliation: Christian Medical College, Vellore, India
