@@ -360,7 +360,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:15565068
-  title: ISSN 1556-5068 - Social Science Research Network
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -2474,7 +2474,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09729607
-  title: ISSN 0972-9607 - Indian Journal of Practical Pediatrics
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -5466,7 +5466,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:00045772
-  title: ISSN 0004-5772 - Journal of Association of Physicians of India
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -6906,7 +6906,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09756299
-  title: ISSN 0975-6299 - International Journal of Pharma and Bio sciences
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -7523,7 +7523,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09747559
-  title: ISSN 0974-7559 - Indian pediatrics (Online)
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -7546,7 +7546,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09715916
-  title: ISSN 0971-5916 - Indian journal of medical research (New Delhi)
+  title: ''
   authors: []
   publisher: ''
   date: ''
@@ -7578,7 +7578,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09751491
-  title: ISSN 0975-1491 - International journal of pharmacy and pharmaceutical sciences
+  title: ''
   authors: []
   publisher: ''
   date: ''
