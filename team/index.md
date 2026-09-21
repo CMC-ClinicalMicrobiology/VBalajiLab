@@ -14,3 +14,15 @@ The Balaji Veeraraghavan Lab brings together clinical microbiologists, genomic e
 ## Principal Investigator
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+## Postdoctoral Researchers
+
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+
+## PhD Students
+
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
+## Research Staff
+
+{% include list.html data="members" component="portrait" filter="role == 'research-staff'" %}
