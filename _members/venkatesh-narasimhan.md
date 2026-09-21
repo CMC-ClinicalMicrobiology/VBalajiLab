@@ -2,7 +2,7 @@
 name: Venkatesh Narasimhan
 role: research-staff
 description: "Project Research Scientist II"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: venkatesh.n.inst@cmcvellore.ac.in
   google-scholar: hPi2uUUAAAAJ

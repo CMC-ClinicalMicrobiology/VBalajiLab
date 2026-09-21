@@ -2,7 +2,7 @@
 name: Shalini Palani
 role: research-staff
 description: "Technical Support"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: shalini.cmch@gmail.com
 aliases:

@@ -2,7 +2,7 @@
 name: Pavithra S
 role: research-staff
 description: "Project Technical Support III"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: pavithra22225@gamil.com
 aliases:
@@ -11,6 +11,6 @@ aliases:
 
 Microbiologist specializing in molecular biology and AMR, with research interests in bacterial pathogens, resistance mechanisms, molecular diagnostics and genomic characterization.
 
-**Research focus:** My research focuses on molecular microbiology, rapid detection of S.Typhi, molecular diagnostics and antimicrobial resistance, with an interest in characterization of bacterial pathogens and resistance mechanisms.
+**Research focus:** My research focuses on molecular microbiology, rapid detection of _S.Typhi_, molecular diagnostics and antimicrobial resistance, with an interest in characterization of bacterial pathogens and resistance mechanisms.
 
 *Joined: 2021*

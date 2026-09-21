@@ -3,7 +3,7 @@ name: Nirmaladevi Ponnusamy
 image: images/members/nirmaladevi-ponnusamy.jpg
 role: postdoc
 description: "Project Research Scientist II (Postdoctoral Researcher)"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: nirmaladevi.erd@gmail.com
   orcid: 0000-0001-9282-3642

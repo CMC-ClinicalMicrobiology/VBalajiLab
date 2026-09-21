@@ -2,7 +2,7 @@
 name: Aravind V
 role: research-staff
 description: "Research Associate"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: varavind320@gmail.com
   orcid: 0009-0004-0666-5430

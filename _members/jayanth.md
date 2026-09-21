@@ -3,7 +3,7 @@ name: Jayanth
 image: images/members/jayanth.jpg
 role: postdoc
 description: "Project Research Scientist I (Post doctoral)"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: jayanthjegan@gmail.com
   google-scholar: rO3G-roAAAAJ

@@ -2,7 +2,7 @@
 name: Shanthana lakshmi
 role: research-staff
 description: "Technical Support (Data Entry)"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: shanthanalakshmi4@gmail.com
 aliases:

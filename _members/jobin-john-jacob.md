@@ -2,7 +2,7 @@
 name: Jobin John Jacob
 role: postdoc
 description: "Consultant Research Scientist (Microbial Genomics)"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: jjj1986@gmail.com
   google-scholar: 2I6rw9UAAAAJ

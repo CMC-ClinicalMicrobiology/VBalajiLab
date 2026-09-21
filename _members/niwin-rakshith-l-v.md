@@ -2,7 +2,7 @@
 name: Niwin Rakshith L V
 role: research-staff
 description: "Research Assistant"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: niwinrakshith2705@gmail.com
 aliases:

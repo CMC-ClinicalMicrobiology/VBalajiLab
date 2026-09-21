@@ -2,7 +2,7 @@
 name: Shamala V
 role: postdoc
 description: "Post Doctoral Researcher"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 aliases:
   - V S
 ---

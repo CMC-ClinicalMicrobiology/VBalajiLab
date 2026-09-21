@@ -3,7 +3,7 @@ name: Vishnukumar Ramesh
 image: images/members/vishnukumar-ramesh.png
 role: phd
 description: "PhD Scholar"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: vishnukumar.r.inst@cmcvellore.ac.in
   google-scholar: ZFkbPN4AAAAJ

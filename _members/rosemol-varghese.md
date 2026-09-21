@@ -2,7 +2,7 @@
 name: Rosemol Varghese
 role: postdoc
 description: "Lecturer"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 aliases:
   - Varghese R
 ---

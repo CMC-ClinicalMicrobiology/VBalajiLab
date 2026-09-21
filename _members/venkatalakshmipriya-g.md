@@ -2,7 +2,7 @@
 name: Venkatalakshmipriya G
 role: research-staff
 description: "Project Technical Support III"
-affiliation: Christian Medical College, Vellore, India
+affiliation: Department of Clinical Microbiology, Christian Medical College, Vellore, India
 links:
   email: gvlpriya667@gmail.com
   google-scholar: RslBY-sAAAAJ
@@ -12,6 +12,6 @@ aliases:
 
 Bioinformatics researcher specializing in microbial genomics, vaccine research, antimicrobial resistance and transcriptomics, with a focused interest in Shigella.
 
-**Research focus:** Genomic characterization of Shigella, antimicrobial resistance and genomics-driven approaches to Shigella vaccine research.
+**Research focus:** Genomic characterization of _Shigella_, antimicrobial resistance and genomics-driven approaches to _Shigella_ vaccine research.
 
 *Joined: 2024*
