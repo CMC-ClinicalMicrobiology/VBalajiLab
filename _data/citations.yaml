@@ -5813,6 +5813,25 @@
   orcid: 0000-0002-8662-4257
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1371/journal.pone.0182642
+  title: 'From hospitalization records to surveillance: The use of local patient profiles
+    to characterize cholera in Vellore, India'
+  authors:
+  - Melissa S. Cruz
+  - Tania M. AlarconFalconi
+  - Meghan A. Hartwick
+  - Aishwarya Venkat
+  - Hanna Y. Ehrlich
+  - Shalini Anandan
+  - Honorine D. Ward
+  - Balaji Veeraraghavan
+  - Elena N. Naumova
+  publisher: PLOS ONE
+  date: '2017-08-18'
+  link: https://doi.org/gbsm4k
+  orcid: 0000-0002-8662-4257
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/jam.13522
   title: <i>In vitro</i>efficacy and<i>in silico</i>analysis of cefixime-ofloxacin
     combination for<i>Salmonella</i>Typhi from bloodstream infection
@@ -5830,25 +5849,6 @@
   publisher: Journal of Applied Microbiology
   date: '2017-08-15'
   link: https://doi.org/gt58fw
-  orcid: 0000-0002-8662-4257
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0182642
-  title: 'From hospitalization records to surveillance: The use of local patient profiles
-    to characterize cholera in Vellore, India'
-  authors:
-  - Melissa S. Cruz
-  - Tania M. AlarconFalconi
-  - Meghan A. Hartwick
-  - Aishwarya Venkat
-  - Hanna Y. Ehrlich
-  - Shalini Anandan
-  - Honorine D. Ward
-  - Balaji Veeraraghavan
-  - Elena N. Naumova
-  publisher: PLOS ONE
-  date: '2017-08-18'
-  link: https://doi.org/gbsm4k
   orcid: 0000-0002-8662-4257
   plugin: orcid.py
   file: orcid.yaml
@@ -6786,40 +6786,6 @@
   orcid: 0000-0002-8662-4257
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1128/genomea.01081-16
-  title: Draft Genome Sequences of Three Hypervirulent Carbapenem-Resistant Klebsiella
-    pneumoniae Isolates from Bacteremia
-  authors:
-  - Chaitra Shankar
-  - Laura E. B. Nabarro
-  - Naveen Kumar Devanga Ragupathi
-  - Dhiviya Prabaa Muthuirulandi Sethuvel
-  - Jones Lionel Kumar Daniel
-  - George Priya Doss C
-  - Balaji Veeraraghavan
-  publisher: Genome Announcements
-  date: '2016-12-29'
-  link: https://doi.org/hchkkx
-  orcid: 0000-0002-8662-4257
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1128/genomea.01425-16
-  title: Novel Observations in 11 Heteroresistant Vancomycin-Intermediate Methicillin-Resistant
-    Staphylococcus aureus Strains from South India
-  authors:
-  - Yamuna Devi Bakthavatchalam
-  - Balaji Veeraraghavan
-  - John Victor Peter
-  - Janakiraman Rajinikanth
-  - Francis Yesurajan Inbanathan
-  - Naveen Kumar Devanga Ragupathi
-  - Suresh Kumar Rajamani Sekar
-  publisher: Genome Announcements
-  date: '2016-12-29'
-  link: https://doi.org/gmftmk
-  orcid: 0000-0002-8662-4257
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7860/JCDR/2016/16417.8152
   title: 'A Pilot Study on Carbapenemase Detection: Do We See the Same Level of Agreement
     as with the CLSI Observations'
@@ -6857,6 +6823,23 @@
   publisher: Journal of Microbiological Methods
   date: '2016-11-01'
   link: https://doi.org/hchkk2
+  orcid: 0000-0002-8662-4257
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.01081-16
+  title: Draft Genome Sequences of Three Hypervirulent Carbapenem-Resistant Klebsiella
+    pneumoniae Isolates from Bacteremia
+  authors:
+  - Chaitra Shankar
+  - Laura E. B. Nabarro
+  - Naveen Kumar Devanga Ragupathi
+  - Dhiviya Prabaa Muthuirulandi Sethuvel
+  - Jones Lionel Kumar Daniel
+  - George Priya Doss C
+  - Balaji Veeraraghavan
+  publisher: Genome Announcements
+  date: '2016-12-29'
+  link: https://doi.org/hchkkx
   orcid: 0000-0002-8662-4257
   plugin: orcid.py
   file: orcid.yaml
@@ -7008,6 +6991,23 @@
   publisher: Indian Journal of Medical Microbiology
   date: '2016-10-01'
   link: https://doi.org/f9g5cg
+  orcid: 0000-0002-8662-4257
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.01425-16
+  title: Novel Observations in 11 Heteroresistant Vancomycin-Intermediate Methicillin-Resistant
+    Staphylococcus aureus Strains from South India
+  authors:
+  - Yamuna Devi Bakthavatchalam
+  - Balaji Veeraraghavan
+  - John Victor Peter
+  - Janakiraman Rajinikanth
+  - Francis Yesurajan Inbanathan
+  - Naveen Kumar Devanga Ragupathi
+  - Suresh Kumar Rajamani Sekar
+  publisher: Genome Announcements
+  date: '2016-12-29'
+  link: https://doi.org/gmftmk
   orcid: 0000-0002-8662-4257
   plugin: orcid.py
   file: orcid.yaml
